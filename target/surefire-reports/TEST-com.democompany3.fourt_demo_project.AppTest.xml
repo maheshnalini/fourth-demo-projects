@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.democompany3.fourt_demo_project.AppTest" time="0.047" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="13"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Ashvitha\PROJECTS\fourt-demo-project\target\test-classes;C:\Users\Ashvitha\PROJECTS\fourt-demo-project\target\classes;C:\Users\Ashvitha\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Ashvitha\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\bin"/>
+    <property name="sun.java.command" value="C:\Users\Ashvitha\AppData\Local\Temp\surefire5995363307861789889\surefirebooter3866061581621127935.jar C:\Users\Ashvitha\AppData\Local\Temp\surefire5995363307861789889 2022-06-01T16-23-54_783-jvmRun1 surefire9747789006020289683tmp surefire_07668958239558795293tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Ashvitha\PROJECTS\fourt-demo-project\target\test-classes;C:\Users\Ashvitha\PROJECTS\fourt-demo-project\target\classes;C:\Users\Ashvitha\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Ashvitha\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Ashvitha"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.home" value="C:\Program Files\Java"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Ashvitha\PROJECTS\fourt-demo-project"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ashvitha\AppData\Local\Temp\surefire5995363307861789889\surefirebooter3866061581621127935.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="13.0.1+9"/>
+    <property name="user.name" value="Ashvitha"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Ashvitha\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ashvitha\AppData\Local\Temp\"/>
+    <property name="java.version" value="13.0.1"/>
+    <property name="user.dir" value="C:\Users\Ashvitha\PROJECTS\fourt-demo-project"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/bin/server;C:/Program Files/Java/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\bin;C:\Program Files\Java\jdk1.8.0_281\bin;D:\DEVOPS\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Program Files\Git\cmd;C:\Users\Ashvitha\Downloads\apache-maven-3.8.5-bin\maven\bin;C:\Users\Ashvitha\Documents\Python Scripts;C:\Users\Ashvitha\Documents\Python Scripts\Library\mingw-w64\bin;C:\Users\Ashvitha\Documents\Python Scripts\Library\usr\bin;C:\Users\Ashvitha\Documents\Python Scripts\Library\bin;C:\Users\Ashvitha\Documents\Python Scripts\Scripts;C:\Users\Ashvitha\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Ashvitha\AppData\Local\Programs\Python\Python38-32\;C:\Program Files\Java\jdk-13.0.1\bin;C:\Users\Ashvitha\AppData\Local\Microsoft\WindowsApps;;C:\Users\Ashvitha\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="13.0.1+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="57.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.democompany3.fourt_demo_project.AppTest" time="0"/>
+</testsuite>
